@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Surrealismo en el Futbol</title>
+<style>
+  h1 {
+    color: blue; /* Color azul para el título */
+  }
+</style>
+</head>
+<body>
+
+<h1>La Magia del Fútbol</h1>
+
+<img src="img/IMG_20240314_212112.jpg" alt="Descripción de la imagen" width="100%">
+
+<p>
+En un estadio etéreo, el Dios Apolo se enfrentaba a otros dioses en un partido surrealista de fútbol. El campo se transformaba continuamente, convirtiéndose en paisajes de ensueño. Apolo lanzaba rayos de sol desde su posición de portero mientras que Zeus controlaba el balón con relámpagos. Atenea desafiaba la gravedad con su grácil movimiento, y Dionisio hacía malabares con el balón en un frenesí de alegría. Cada gol resonaba como un trueno en el cielo, y los espectadores celestiales vitoreaban con entusiasmo divino. Al final del partido, la armonía del universo se restauraba, dejando un eco de magia y camaradería entre los dioses del Olimpo. El espectáculo celestial encantaba incluso a los dioses más distantes, uniendo a todas las deidades en una celebración de deporte y camaradería.</p>
+
+<audio controls>
+  <source src="PTT-20240314-WA0008.mp3" type="audio/mp3">
+  Tu navegador no soporta el elemento de audio.
+</audio>
+
+
+</body>
+</html>
+
+
+
+
